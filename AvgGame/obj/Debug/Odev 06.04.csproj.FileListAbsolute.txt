@@ -1,0 +1,11 @@
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\bin\Debug\Odev 06.04.exe.config
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\bin\Debug\Odev 06.04.exe
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\bin\Debug\Odev 06.04.pdb
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev 06.04.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev 06.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev_06._04.FrmOdev06_04.resources
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev_06._04.Properties.Resources.resources
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev 06.04.csproj.GenerateResource.cache
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev 06.04.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev 06.04.exe
+C:\Users\Golt1on\source\repos\Odev 06.04\Odev 06.04\obj\Debug\Odev 06.04.pdb
